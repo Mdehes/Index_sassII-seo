@@ -1,0 +1,14 @@
+/*ajustes generales*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    padding: 70px 10px 0;
+}
+
+/*probando import*/
+@import "header";
+@import "main";
+@import "footer";
